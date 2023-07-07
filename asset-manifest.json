@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website-revamp/static/css/main.17b38e94.css",
-    "main.js": "/website-revamp/static/js/main.861cb0a1.js",
+    "main.css": "/website-revamp/static/css/main.1975d99e.css",
+    "main.js": "/website-revamp/static/js/main.e44ff96b.js",
     "static/media/me.png": "/website-revamp/static/media/me.821ecddcb9953b46bf75.png",
     "static/media/me-about.jpg": "/website-revamp/static/media/me-about.fb4452e7f286d3636ef9.jpg",
     "static/media/portfolio5.png": "/website-revamp/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -12,11 +12,11 @@
     "static/media/portfolio3.jpg": "/website-revamp/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/website-revamp/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/website-revamp/index.html",
-    "main.17b38e94.css.map": "/website-revamp/static/css/main.17b38e94.css.map",
-    "main.861cb0a1.js.map": "/website-revamp/static/js/main.861cb0a1.js.map"
+    "main.1975d99e.css.map": "/website-revamp/static/css/main.1975d99e.css.map",
+    "main.e44ff96b.js.map": "/website-revamp/static/js/main.e44ff96b.js.map"
   },
   "entrypoints": [
-    "static/css/main.17b38e94.css",
-    "static/js/main.861cb0a1.js"
+    "static/css/main.1975d99e.css",
+    "static/js/main.e44ff96b.js"
   ]
 }
