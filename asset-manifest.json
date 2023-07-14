@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/website-revamp/static/css/main.0fdb90a9.css",
-    "main.js": "/website-revamp/static/js/main.e0e94e27.js",
-    "static/media/portfolio2.jpg": "/website-revamp/static/media/portfolio2.83298eb979d802959dc6.jpg",
-    "static/media/portfolio1.jpg": "/website-revamp/static/media/portfolio1.b4e8421d8a7727ed0bde.jpg",
-    "static/media/me.png": "/website-revamp/static/media/me.26ad0672f0f1702b284a.png",
+    "main.css": "/website-revamp/static/css/main.d6b2b469.css",
+    "main.js": "/website-revamp/static/js/main.e1854c58.js",
+    "static/media/ass.png": "/website-revamp/static/media/ass.711b1f7267834336f42a.png",
+    "static/media/ssy.jpg": "/website-revamp/static/media/ssy.83298eb979d802959dc6.jpg",
+    "static/media/msr.png": "/website-revamp/static/media/msr.a5cdcdb30353ea430121.png",
+    "static/media/qui.png": "/website-revamp/static/media/qui.a9ab399827b4968ebb37.png",
+    "static/media/jlr.png": "/website-revamp/static/media/jlr.38bbd4a6e7409cb89193.png",
+    "static/media/3db.jpg": "/website-revamp/static/media/3db.b4e8421d8a7727ed0bde.jpg",
+    "static/media/fut.png": "/website-revamp/static/media/fut.acdf63355058f6a1060d.png",
+    "static/media/ras.png": "/website-revamp/static/media/ras.638df53b5c9066dc1445.png",
+    "static/media/mad.png": "/website-revamp/static/media/mad.16a146415ff4c1fb646e.png",
+    "static/media/cha.png": "/website-revamp/static/media/cha.4ab249d56ff799a10bb7.png",
+    "static/media/stb.png": "/website-revamp/static/media/stb.110206bb61b0a56c7599.png",
     "static/media/me-about.jpg": "/website-revamp/static/media/me-about.05ab4f2d4d55e1037771.jpg",
     "static/media/cv.pdf": "/website-revamp/static/media/cv.5ee7b95df1511d7a8546.pdf",
     "index.html": "/website-revamp/index.html",
-    "main.0fdb90a9.css.map": "/website-revamp/static/css/main.0fdb90a9.css.map",
-    "main.e0e94e27.js.map": "/website-revamp/static/js/main.e0e94e27.js.map"
+    "main.d6b2b469.css.map": "/website-revamp/static/css/main.d6b2b469.css.map",
+    "main.e1854c58.js.map": "/website-revamp/static/js/main.e1854c58.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fdb90a9.css",
-    "static/js/main.e0e94e27.js"
+    "static/css/main.d6b2b469.css",
+    "static/js/main.e1854c58.js"
   ]
 }
